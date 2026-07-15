@@ -243,46 +243,6 @@ npm run test:coverage
 └── 🔧 Utilities: 85%
 ```
 
----
-
-## 🤝 Contributing
-
-We love contributions! Here's how you can help make this project better:
-
-### 🔄 Development Workflow
-
-1. **🍴 Fork the repository**
-   ```bash
-   gh repo fork https://github.com/Khiladi124/HealthCare-management-with-Blockchain.git
-   ```
-
-2. **🌿 Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-
-3. **✍️ Make your changes**
-   - Write clean, documented code
-   - Add tests for new features
-   - Update documentation
-
-4. **✅ Test your changes**
-   ```bash
-   npm test
-   npm run lint
-   ```
-
-5. **📤 Submit a pull request**
-
-### 📝 Contribution Guidelines
-
-- Follow the existing code style
-- Write meaningful commit messages
-- Add tests for new features
-- Update documentation as needed
-- Be respectful and collaborative
-
----
 
 ## 🎯 Roadmap
 
@@ -314,27 +274,14 @@ MIT License - Feel free to use this project for personal or commercial purposes!
 
 ### 👨‍💻 Project Maintainer
 
-**Abhishek Gangwar**
+**Priya Sikarwar**
 
-[![Email](https://img.shields.io/badge/Email-abhishek.gangwar.04.001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.gangwar.04.001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khiladi124)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gangwar-a67137168/)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 If you found this project helpful, please give it a star!
-
-[![Star this repo](https://img.shields.io/github/stars/your-username/project-management?style=social)](https://github.com/Khiladi124/HealthCare-management-with-Blockchain.git/)
-
-**Made with ❤️ for the project management community**
+[![Email](https://img.shields.io/badge/Email-priyasikarwar511@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasikarwar511@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyasikarwar511)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-sikarwar)
 
 </div>
 
----
 
 <div align="center">
 <sub>Built with 🔥 by developers who care about project management technology</sub>
