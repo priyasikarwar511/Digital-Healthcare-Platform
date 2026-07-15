@@ -17,7 +17,6 @@
 - [🔧 Configuration](#-configuration)
 - [💻 Usage](#-usage)
 - [🧪 Testing](#-testing)
-- [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [📞 Contact](#-contact)
 
